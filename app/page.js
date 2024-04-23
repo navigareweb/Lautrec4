@@ -15,7 +15,7 @@ export default function Home() {
         <h3 className={styles.text}>THE WOMEN AND THE ELLES SERIES</h3>
         <audio
           controls
-          src="/THE-WOMEN-AND-THE-ELLES-SERIES.mp3"
+          src="/THEWOMEN-ANDTHEELLESSERIES.mp3"
           className={styles.audio}
         >
           Your browser does not support the
