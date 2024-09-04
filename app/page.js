@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <Image
-        src={"/400x600.jpeg"}
-        width={600}
+        src={"/Lautrec400x600.jpg"}
+        width={400}
         height={600}
         className={styles.img}
         alt="imgLautrec"
